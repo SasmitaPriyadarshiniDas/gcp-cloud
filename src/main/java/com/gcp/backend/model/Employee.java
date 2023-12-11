@@ -6,11 +6,6 @@ import javax.persistence.GeneratedValue;
 import javax.persistence.GenerationType;
 import javax.persistence.Id;
 
-/**
- * @author M1052874
- *
- */
-
 @Entity
 public class Employee {
 
